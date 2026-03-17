@@ -1,6 +1,22 @@
 
 document.addEventListener("DOMContentLoaded", function() {
-const gifs = squareData;
+
+ const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        const video = entry.target;
+
+         video.src = video.dataset.src;
+      video.load();
+      video.play();
+
+        observer.unobserve(video);
+      }
+    });
+  });
+
+
+  const gifs = squareData;
 // ===== MENU TOGGLE =====
 const menuBox = document.querySelector(".menu-box");
 const sidebar = document.getElementById("sidebar");
@@ -40,13 +56,20 @@ video.loop = true;
 video.muted = true;
 video.playsInline = true;
 
-const source = document.createElement("source");
-source.src = item.gif;
-source.type = "video/mp4";
 
-video.appendChild(source);
+video.dataset.src = item.gif;
+video.preload = "none";
+video.loading = "lazy";
+video.muted = true;
+video.loop = true;
+video.autoplay = true;
+video.playsInline = true;
+
+observer.observe(video);
+
 link.appendChild(video);
 gifArea.appendChild(link);
+
 
 });
 }
