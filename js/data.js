@@ -257,7 +257,7 @@ link: "https://onlyfans.com/lillyvig",
 },
 
 {id: 28,
-gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.devBeautyy.mp4",
+gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/Beautyy.mp4",
 slug: "Beautyy",
 title: "5-Star Ride",
 actress: "Bosnian Beautyy, Van Wylde, Eddie Jaye",
@@ -266,7 +266,7 @@ link: "https://www.brazzers.com/video/11208131/5-star-ride?ats=eyJhIjo4OTk2OSwiY
 },
 
 {id: 29,
-gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.devmorris-advoree.mp4",
+gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/morris-advoree.mp4",
 slug: "morris-advoree.mp4",
 title: "Cheating With The Hotel Maid Part 2",
 actress: "Advoree, Abigaiil Morris, Van Wylde",
