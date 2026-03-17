@@ -2,7 +2,7 @@
 const squareData = [
 {
 id: 1,
-gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.devcodi-vore-nerd.mp4",
+gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/codi-vore-nerd.mp4",
 slug: "codi-vore-nerd",
 title: "The Geek, The Goth & The Tomboy",
 actress: "Codi Vore, Jessie Lee",
