@@ -1,0 +1,163 @@
+body {
+  body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  }
+}
+
+/* ===== TOP BLUE BANNER ===== */
+.top-banner {
+  position: relative;
+  z-index: 1000;
+  background: #0a69cf;
+  height: 90px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+
+/* Hamburger square box */
+.menu-box {
+  z-index: 1000;
+  background: white;
+  width: 50px;
+  height: 50px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 28px;
+  cursor: pointer;
+}
+
+/* Center search */
+.search-wrapper {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}
+
+.search-wrapper input {
+  width: 350px;
+  padding: 12px 20px;
+  border-radius: 40px;
+  border: none;
+  outline: none;
+  font-size: 16px;
+}
+
+/* Logo + pigeon section */
+.logo-section {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.logo-text {
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+/* Pigeon face */
+.pigeon {
+  width: 60px;
+  height: 60px;
+  background: #007BFF;
+  border-radius: 50%;
+  position: relative;
+}
+
+/* Eyes */
+.eye {
+  width: 10px;
+  height: 10px;
+  background: black;
+  border-radius: 50%;
+  position: absolute;
+  top: 20px;
+}
+
+.left-eye {
+  left: 18px;
+}
+
+.right-eye {
+  right: 18px;
+}
+
+/* Beak */
+.beak {
+  width: 0;
+  height: 0;
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+  border-top: 14px solid orange;
+  position: absolute;
+  bottom: 15px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+/* ===== SIDEBAR ===== */
+.sidebar {
+  position: fixed;
+  top: 90px;              /* matches banner height */
+  left: -300px;           /* completely off screen */
+  width: 250px;
+  float: left;
+  min-height: 100vh;
+  flex-shrink: 0;
+  background: white;
+  box-shadow: 2px 0 8px rgba(0,0,0,0.15);
+  padding: 20px;
+  transition: left 0.3s ease;
+  z-index: 500;
+}
+
+
+.sidebar.active {
+  left: 0;
+}
+
+.sidebar h2 {
+  color: #007BFF;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar li {
+  margin: 10px 0;
+  color: #55a0f0;
+  cursor: pointer;
+}
+/* GIF GRID */
+.gif-area {
+  display: grid;
+  grid-template-columns: repeat(6, 300px);
+  gap: 15px;
+  padding: 20px;
+}
+
+
+.gif-video {
+width: 300px;
+height: 350px;
+object-fit: cover;
+border-radius: 12px;
+
+}
+a {
+  color: rgb(255, 0, 21);
+}
+#gifDetail h2 {
+color: rgb(42, 159, 189);
+}
+
+#gifDetail p {
+color: rgb(63, 130, 207);
+}
