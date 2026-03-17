@@ -11,7 +11,7 @@ link: "https://brazzersclub.com/video/8484821/the-geek-the-goth-the-tomboy",
 },
 
 {id: 2,
-gif:"https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.devsquirting-vanna.mp4",
+gif:"https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/squirting-vanna.mp4",
 slug: "squirting-vanna", 
 title: "Squirting Vanna",
 actress: "Vanna Rose",
@@ -21,7 +21,7 @@ link: "https://bangbros.com/video/11424491/squirting-vanna?ats=eyJhIjo4OTk2OSwiY
 
 
 {id: 3,
-gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.devcodi-vore-massage.mp4",
+gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/codi-vore-massage.mp4",
 slug: "codi-vore-massage",
 title: "Behind The Curtain 2",
 actress: "Jenna Foxx, Madi Meadows, Codi Vore",
@@ -30,7 +30,7 @@ link: "https://www.brazzers.com/video/4436161/behind-the-curtain-2",
 },
 
 {id: 4,
-gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.devcodi-vore-threesome.mp4",
+gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/codi-vore-threesome.mp4",
 slug: "codi-vore-threesome",
 title: "Thanksgiving Sinner’s Threesome",
 actress: "Alexis Fawx, Codi Vore, Lawson Jones",
@@ -39,7 +39,7 @@ link: "https://www.brazzers.com/video/8276661/thanksgiving-sinner-s-threesome?at
 },
 
 {id: 5,
-gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.devGem-Jewels-brazzers.mp4",
+gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/Gem-Jewels-brazzers.mp4",
 slug: "Gem-Jewels-brazzers",
 title: "Drone Peeping Dude Gets Sneaky Anal",
 actress: "Gem Jewels",
@@ -48,7 +48,7 @@ link:"https://www.brazzers.com/video/8317421/drone-peeping-dude-gets-sneaky-anal
 },
 
 {id: 6,
-gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.devblond-gem-jewels.mp4",
+gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/blond-gem-jewels.mp4",
 slug: "blond-gem-jewels",
 title: "Baddie With A Phatty",
 actress: "Gem Jewels",
@@ -57,7 +57,7 @@ link: "https://bangbros.com/video/9659491/baddie-with-a-phatty?ats=eyJhIjo4OTk2O
 },
 
 {id: 7,
-gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.devgelatinous-gem.mp4",
+gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/gelatinous-gem.mp4",
 slug: "gelatinous-gem",
 title: "Gelatinous Gem",
 actress: "Gem Jewels",
@@ -66,7 +66,7 @@ link: "https://bangbros.com/video/11030381/gelatinous-gem?ats=eyJhIjo4OTk2OSwiYy
 },
 
 {id: 8,
-gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.devworking-out-a-gem.mp4",
+gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/working-out-a-gem.mp4",
 slug: "working-out-a-gem",
 title: "Working Out A Gem",
 actress: "Gem Jewels",
@@ -75,7 +75,7 @@ link: "https://bangbros.com/video/11161181/working-out-a-gem?ats=eyJhIjo4OTk2OSw
 },
 
 {id: 9,
-gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.devgerocery-store-head.mp4",
+gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/gerocery-store-head.mp4",
 slug: "gerocery-store-head",
 title: "Gerocery Store",
 actress: "Brenna Mckenna",
@@ -84,7 +84,7 @@ link: "https://www.mofos.com/scene/10547611/grocery-store?ats=eyJhIjo4OTk2OSwiYy
 },
 
 {id: 10,
-gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.devcakes-reeves.mp4",
+gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/cakes-reeves.mp4",
 slug: "cakes-reeves",
 title: "Fucked Out Of House & Home: Part 1",
 actress: "Kenzie Reeves, Victoria Cakes",
