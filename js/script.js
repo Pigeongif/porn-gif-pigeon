@@ -2,21 +2,25 @@
 document.addEventListener("DOMContentLoaded", function() {
 
  const observer = new IntersectionObserver((entries) => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        const video = entry.target;
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      const video = entry.target;
 
-         video.src = video.dataset.src;
+      video.src = video.dataset.src;
       video.load();
       video.play();
 
-        observer.unobserve(video);
-      }
-    });
+      observer.unobserve(video);
+    }
   });
+}, {
+  threshold: 0.1
+});
 
 
-  const gifs = squareData;
+
+  const gifs = [...squareData];
+  console.log(gifs);
 // ===== MENU TOGGLE =====
 const menuBox = document.querySelector(".menu-box");
 const sidebar = document.getElementById("sidebar");
