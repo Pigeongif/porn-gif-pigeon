@@ -555,5 +555,32 @@ studio: "Onlyfans",
 link: "https://onlyfans.com/bustyema_official",
 },
 
+{id: 61,
+gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/bangbrosblondbunny.mp4",
+slug: "bangbrosblondbunny",
+title: "Oiled Blonde With a Big Ass",
+actress: "Adaline Starr, Dwayne Foxxx",
+studio: "Bangbros",
+link: "https://landing.bangbrosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTMwLCJzIjo2OTMsImUiOjEwNjczLCJwIjoxMX0=",
+},
+
+{id: 62,
+gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/bustybythepool.mp4",
+slug: "bustybythepool.mp4",
+title: "unanswered1",
+actress: "unanswered2",
+studio: "Bangbros",
+link: "https://landing.bangbrosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTMwLCJzIjo2OTMsImUiOjEwNjczLCJwIjoxMX0=",
+},
+
+{id: 63,
+gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/thiccbubblebath.mp4",
+slug: "thiccbubblebath",
+title: "unanswered3",
+actress: "unanswered4",
+studio: "Bangbros",
+link: "https://landing.bangbrosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTMwLCJzIjo2OTMsImUiOjEwNjczLCJwIjoxMX0=",
+},
+
 ];
 
