@@ -609,5 +609,32 @@ studio: "Brazzers",
 link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
 },
 
+{id: 67,
+gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/chloesurrelbrazzers1.mp4",
+slug: "chloesurrelbrazzers1",
+title: "Big Natural Babe Gets The Double Dickdown She Thirsts For",
+actress: "Chloe Surreal, Mick Blue, Xander Corvus, Christian Castillo",
+studio: "Brazzers",
+link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
+},
+
+{id: 68,
+gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/abbymorrisvidgame.mp4",
+slug: "abbymorrisvidgame",
+title: "MORE.PANTY.FUCKS.",
+actress: "Abigaiil Morris, Lily Lou, Jay Romero",
+studio: "Brazzers",
+link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
+},
+
+{id: 69,
+gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/brazers dick slide cumshot.mp4",
+slug: "brazers dick slide cumshot",
+title: "She's Down With The DILFness",
+actress: "Ashley Alexander, Ethan Seeks, Richard Glaze",
+studio: "Brazzers",
+link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
+},
+
 ];
 
