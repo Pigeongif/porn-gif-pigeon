@@ -582,5 +582,32 @@ studio: "Bangbros",
 link: "https://landing.bangbrosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTMwLCJzIjo2OTMsImUiOjEwNjczLCJwIjoxMX0=",
 },
 
+{id: 64,
+gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/bbwbathbrazzers.mp4",
+slug: "bbwbathbrazzers.mp4",
+title: "Sniff & Lick, Face Sit",
+actress: "Dallas Playhouse, Oliver Flynn",
+studio: "Brazzers",
+link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
+}, 
+
+{id: 65,
+gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/orangerobesbrazzers.mp4",
+slug: "orangerobesbrazzers.mp4",
+title: "Spa Night Anal Switcheroo",
+actress: "Violet Starr , Vanessa Sky, Mick Blue",
+studio: "Brazzers",
+link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
+},
+
+{id: 66,
+gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/twoblackbrazzers.mp4",
+slug: "twoblackbrazzers",
+title: "I’ll Have What She’s Having",
+actress: "Demi Sutra, Scarlit Scandal, Chris Diamond",
+studio: "Brazzers",
+link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
+},
+
 ];
 
