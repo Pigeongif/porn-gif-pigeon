@@ -1,9 +1,8 @@
 body {
-  body {
   margin: 0;
   font-family: Arial, sans-serif;
   }
-}
+
 
 /* ===== TOP BLUE BANNER ===== */
 .top-banner {
@@ -181,3 +180,12 @@ color: rgb(63, 130, 207);
     display: none;
   }
 }
+
+@media (max-width: 768px) {
+  .gif-area {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 5px;
+  }
+}
+
