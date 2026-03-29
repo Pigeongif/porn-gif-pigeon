@@ -161,3 +161,23 @@ color: rgb(42, 159, 189);
 #gifDetail p {
 color: rgb(63, 130, 207);
 }
+
+/* MOBILE: 2 rows, 3 per row (6 total) */
+@media (max-width: 768px) {
+  .gif-area {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 per row */
+    gap: 10px;
+  }
+
+  /* Optional: make sure videos fill the box */
+  .gif-area video {
+    width: 100%;
+    height: auto;
+  }
+
+  /* Show only first 6 GIFs */
+  .gif-area > *:nth-child(n+7) {
+    display: none;
+  }
+}
