@@ -729,10 +729,10 @@ link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1
 {id: 80,
 gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/workoutinblue.mp4",
 slug: "workoutinblue",
-title: "",
-actress: "",
+title: "Gym Sluts Put On A Public Show",
+actress: "Kali Roses, Madalina Moon",
 studio: "Brazzers",
-link: "ttps://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
+link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
 },
 
 ];
