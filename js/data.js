@@ -834,5 +834,23 @@ studio: "Brazzers",
 link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
 },
 
+{id: 92,
+gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/bangbrosbathtime.mp4",
+slug: "bangbrosbathtime.mp4",
+title: "",
+actress: "",
+studio: "Bangbros",
+link: "https://landing.bangbrosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTMwLCJzIjo2OTMsImUiOjEwNjczLCJwIjoxMX0=",
+},
+
+{id: 93,
+gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/johnnylove bangbros.mp4",
+slug: "johnnylove bangbros",
+title: "Big Booty Neighbor",
+actress: "Gigi Lysette, Johnny Love",
+studio: "Bangbros",
+link: "https://landing.bangbrosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTMwLCJzIjo2OTMsImUiOjEwNjczLCJwIjoxMX0=",
+},
+
 ];
 
