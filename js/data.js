@@ -830,8 +830,8 @@ gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/newcakes1.mp4",
 slug: "newcakes1",
 title: "Only I Get To Dom My Husband!",
 actress: "Victoria Cakes, Emma Rosie, Jimmy Michaels",
-studio: "Brazzers",
-link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
+studio: "Brazzers",https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=
+link: "",
 },
 
 {id: 92,
@@ -859,6 +859,15 @@ title: "Hey I Know You!",
 actress: "Abigaiil Morris, JMac",
 studio: "Realitykings",
 link: "https://landing.rk.com/tgp1/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MjAsInMiOjM1OCwiZSI6ODAzNCwicCI6MTF9",
+},
+
+{id: 95,
+gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/scottnailsnew.mp4",
+slug: "scottnailsnew.mp4",
+title: "Alanna Wants You To Fuck Her Silly",
+actress: "scott Nails, Alanna Pow",
+studio: "Brazzers",
+link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
 },
 
 ];
