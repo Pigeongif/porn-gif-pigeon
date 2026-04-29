@@ -902,8 +902,17 @@ gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/mofoscutebutt.mp4",
 slug: "mofoscutebutt",
 title: "Fun at Sunday Dinner",
 actress: "Sophie Tyler, GI Joey",
-studio: "Mofos",
+studio: "Mofos", 
 link: "https://landing.mofosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTUsInMiOjE3NiwiZSI6ODk0MywicCI6MTF9",
+},
+
+{id: 100,
+gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/simonebrazzers.mp4",
+slug: "simonebrazzers",
+title: "",
+actress: "",
+studio: "Brazzers",
+link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
 },
 
 ];
