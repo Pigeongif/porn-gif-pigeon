@@ -60,13 +60,13 @@ body {
 }
 
 /* Pigeon face */
-.pigeon {
-  width: 60px;
-  height: 60px;
-  background: #007BFF;
-  border-radius: 0;
-  position: relative;
+.logo {
+  width: 150px;
+  height: auto;
+  object-fit: contain;
 }
+
+
 
 
 /* ===== SIDEBAR ===== */
