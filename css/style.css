@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  }
+}
 
 
 /* ===== TOP BLUE BANNER ===== */
@@ -64,52 +64,24 @@ body {
   width: 60px;
   height: 60px;
   background: #007BFF;
-  border-radius: 50%;
+  border-radius: 0;
   position: relative;
 }
 
-/* Eyes */
-.eye {
-  width: 10px;
-  height: 10px;
-  background: black;
-  border-radius: 50%;
-  position: absolute;
-  top: 20px;
-}
-
-.left-eye {
-  left: 18px;
-}
-
-.right-eye {
-  right: 18px;
-}
-
-/* Beak */
-.beak {
-  width: 0;
-  height: 0;
-  border-left: 8px solid transparent;
-  border-right: 8px solid transparent;
-  border-top: 14px solid orange;
-  position: absolute;
-  bottom: 15px;
-  left: 50%;
-  transform: translateX(-50%);
-}
 
 /* ===== SIDEBAR ===== */
 .sidebar {
   position: fixed;
-  top: 90px;              /* matches banner height */
-  left: -300px;           /* completely off screen */
+  top: 90px;
+  /* matches banner height */
+  left: -300px;
+  /* completely off screen */
   width: 250px;
   float: left;
   min-height: 100vh;
   flex-shrink: 0;
   background: white;
-  box-shadow: 2px 0 8px rgba(0,0,0,0.15);
+  box-shadow: 2px 0 8px rgba(0, 0, 0, 0.15);
   padding: 20px;
   transition: left 0.3s ease;
   z-index: 500;
@@ -134,6 +106,7 @@ body {
   color: #55a0f0;
   cursor: pointer;
 }
+
 /* GIF GRID */
 .gif-area {
   display: grid;
@@ -144,28 +117,31 @@ body {
 
 
 .gif-video {
-width: 300px;
-height: 350px;
-object-fit: cover;
-border-radius: 12px;
+  width: 300px;
+  height: 350px;
+  object-fit: cover;
+  border-radius: 12px;
 
 }
+
 a {
   color: rgb(255, 0, 21);
 }
+
 #gifDetail h2 {
-color: rgb(42, 159, 189);
+  color: rgb(42, 159, 189);
 }
 
 #gifDetail p {
-color: rgb(63, 130, 207);
+  color: rgb(63, 130, 207);
 }
 
 /* MOBILE: 2 rows, 3 per row (6 total) */
 @media (max-width: 768px) {
   .gif-area {
     display: grid;
-    grid-template-columns: repeat(3, 1fr); /* 3 per row */
+    grid-template-columns: repeat(3, 1fr);
+    /* 3 per row */
     gap: 10px;
   }
 
@@ -176,7 +152,7 @@ color: rgb(63, 130, 207);
   }
 
   /* Show only first 6 GIFs */
-  .gif-area > *:nth-child(n+7) {
+  .gif-area>*:nth-child(n+7) {
     display: none;
   }
 }
@@ -188,4 +164,3 @@ color: rgb(63, 130, 207);
     gap: 5px;
   }
 }
- 
