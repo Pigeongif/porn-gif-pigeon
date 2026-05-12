@@ -1029,10 +1029,20 @@ const squareData = [
         id: 102,
         gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/abelladanger.mp4",
         slug: "abelladanger",
-        title: "",
-        actress: "",
+        title: "Unanounced",
+        actress: "Abella Danger",
         studio: "Brazzers",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
+    },
+
+    {
+        id: 103,
+        gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/Bangbros bubble butt twirk.mp4",
+        slug: "Bangbros bubble butt twirk",
+        title: "Ass Parade Worthy!",
+        actress: "Mandy Muse, Don Sudan",
+        studio: "Bangbros",
+        link: "https://landing.bangbrosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTMwLCJzIjo2OTMsImUiOjEwNjczLCJwIjoxMX0=",
     },
 
 ];
