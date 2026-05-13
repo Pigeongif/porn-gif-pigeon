@@ -1052,7 +1052,7 @@ const squareData = [
         title: "Highly Rated Service",
         actress: "Hailey Rose",
         studio: "Misc",
-        link: "Propertysex.com",
+        link: "https://www.propertysex.com/scene/9425681/highly-rated-service",
     },
 
     {
@@ -1062,7 +1062,7 @@ const squareData = [
         title: "Slim and Thicc girl threesome",
         actress: "Veronica Leal, Taylee Wood, Steve Q",
         studio: "Misc",
-        link: "fakehub.com",
+        link: "https://www.fakehub.com/scene/4424491/slim-and-thicc-girl-threesome",
     },
 
 ];
