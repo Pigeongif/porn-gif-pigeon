@@ -176,6 +176,7 @@ a {
 .abigaiil-h1 {
   color: ghostwhite;
   text-align: right;
+  position: absolute;
   bottom: -65;
   left: 210;
 }
