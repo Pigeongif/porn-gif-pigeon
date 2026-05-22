@@ -176,9 +176,9 @@ a {
 .abigaiil-h1 {
   color: ghostwhite;
   text-align: right;
-  position: absolute;
-  bottom: -65;
-  left: 210;
+  position: relative;
+  top: 40px;
+  left: -100px
 }
 
 .abigaiil-logo {
@@ -205,6 +205,7 @@ a {
   height: 350px;
   object-fit: cover;
   border-radius: 12px;
+  z-index: 10;
 }
 
 .abigaiil-gifs {
