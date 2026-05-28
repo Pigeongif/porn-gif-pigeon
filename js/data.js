@@ -1083,7 +1083,7 @@ const squareData = [
         studio: "Brazzers",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
-    
+
     {
         id: 108,
         gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/alanna pow oiled up.mp4",
@@ -1093,6 +1093,35 @@ const squareData = [
         studio: "Brazzers",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
+
+    {
+        id: 109,
+        gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/bangbrosbustygirl.mp4",
+        slug: "bangbrosbustygirl",
+        title: "",
+        actress: "",
+        studio: "Bangbros",
+        link: "https://landing.bangbrosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTMwLCJzIjo2OTMsImUiOjEwNjczLCJwIjoxMX0=",
+    },
+    {
+        id: 110,
+        gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/bangbrosviolettop.mp4",
+        slug: "bangbrosviolettop",
+        title: "",
+        actress: "",
+        studio: "Bandbros",
+        link: "https://landing.bangbrosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTMwLCJzIjo2OTMsImUiOjEwNjczLCJwIjoxMX0=",
+    },
+    {
+        id: 111,
+        gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/bigassbangbros.mp4",
+        slug: "bigassbangbros",
+        title: "",
+        actress: "",
+        studio: "Bandbros",
+        link: "https://landing.bangbrosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTMwLCJzIjo2OTMsImUiOjEwNjczLCJwIjoxMX0=",
+    },
+
 
 
 ];
