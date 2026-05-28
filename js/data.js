@@ -1109,7 +1109,7 @@ const squareData = [
         slug: "bangbrosviolettop",
         title: "",
         actress: "",
-        studio: "Bandbros",
+        studio: "Bangbros",
         link: "https://landing.bangbrosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTMwLCJzIjo2OTMsImUiOjEwNjczLCJwIjoxMX0=",
     },
     {
@@ -1118,7 +1118,7 @@ const squareData = [
         slug: "bigassbangbros",
         title: "",
         actress: "",
-        studio: "Bandbros",
+        studio: "Bangbros",
         link: "https://landing.bangbrosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTMwLCJzIjo2OTMsImUiOjEwNjczLCJwIjoxMX0=",
     },
 
