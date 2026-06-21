@@ -36,17 +36,39 @@ body {
 /* Center search */
 .search-wrapper {
   flex: 1;
+  min-width: 0;
   display: flex;
   justify-content: center;
+
 }
 
+.button {
+  display: inline;
+  background-color: white;
+  color: #007BFF;
+  border-radius: 20%;
+  border: 1px solid #007BFF;
+
+}
+
+
 .search-wrapper input {
-  width: 350px;
-  padding: 12px 20px;
+  width: 100%;
+  max-width: 350px;
+  box-sizing: border-box;
+  /*padding: 12px 20px;*/
   border-radius: 40px;
   border: none;
   outline: none;
   font-size: 16px;
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+
+}
+
+.search-wrapper form {
+  display: flex;
 }
 
 /* Logo + pigeon section */
@@ -178,4 +200,10 @@ a {
   font-family: sans-serif;
 
 
+}
+
+@media(max-width: 818px) {
+  .search-wrapper {
+    flex-shrink: 1;
+  }
 }
