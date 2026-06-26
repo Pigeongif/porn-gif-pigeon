@@ -45,13 +45,13 @@ document.addEventListener("DOMContentLoaded", function () {
       .reverse()
       .filter(item =>
         (!selectedStudio || item.studio === selectedStudio) &&
-        (!search ||
+        (
+          !search ||
           item.title.toLowerCase().includes(search.toLowerCase()) ||
           item.actress.toLowerCase().includes(search.toLowerCase()) ||
           item.studio.toLowerCase().includes(search.toLowerCase()) ||
-          (item.tags && item.tags.some(tag =>
-            tag.toLowerCase().includes(search.toLowerCase())
-          ))
+          (item.tags &&
+            item.tags.toLowerCase().includes(search.toLowerCase()))
         )
       )
 
