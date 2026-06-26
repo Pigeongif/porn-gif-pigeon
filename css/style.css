@@ -139,7 +139,7 @@ body {
   /*repeat(6, 300px); */
   gap: 15px;
   padding: 20px;
-  outline: 1px solid red;
+
 
 }
 
@@ -188,7 +188,12 @@ a {
 }
 
 #abigaiil-gifarea {
-  margin-top: 130px
+  margin-top: 130px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 350px));
+  /*repeat(6, 300px); */
+  gap: 15px;
+  padding: 20px;
 }
 
 .abigaiil-h1 {
