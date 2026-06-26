@@ -53,36 +53,37 @@ document.addEventListener("DOMContentLoaded", function () {
             tag.toLowerCase().includes(search.toLowerCase())
           ))
         )
+      )
 
-          .forEach(item => {
-
-
-            const link = document.createElement("a");
-            link.href = "gif.html?slug=" + item.slug;
-
-            const video = document.createElement("video");
-            video.className = "gif-video";
-            video.autoplay = true;
-            video.loop = true;
-            video.muted = true;
-            video.playsInline = true;
+      .forEach(item => {
 
 
-            video.dataset.src = item.gif;
-            video.preload = "none";
-            video.loading = "lazy";
-            video.muted = true;
-            video.loop = true;
-            video.autoplay = true;
-            video.playsInline = true;
+        const link = document.createElement("a");
+        link.href = "gif.html?slug=" + item.slug;
 
-            observer.observe(video);
-
-            link.appendChild(video);
-            gifArea.appendChild(link);
+        const video = document.createElement("video");
+        video.className = "gif-video";
+        video.autoplay = true;
+        video.loop = true;
+        video.muted = true;
+        video.playsInline = true;
 
 
-          });
+        video.dataset.src = item.gif;
+        video.preload = "none";
+        video.loading = "lazy";
+        video.muted = true;
+        video.loop = true;
+        video.autoplay = true;
+        video.playsInline = true;
+
+        observer.observe(video);
+
+        link.appendChild(video);
+        gifArea.appendChild(link);
+
+
+      });
   }
 
 });
