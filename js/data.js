@@ -9,6 +9,7 @@ const squareData = [
         title: "The Geek, The Goth & The Tomboy",
         actress: "Codi Vore, Jessie Lee",
         studio: "Brazzers",
+        tags: "lesbian, big tits, threesome, tatoos, cum shot",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
 
@@ -30,6 +31,7 @@ const squareData = [
         title: "Behind The Curtain 2",
         actress: "Jenna Foxx, Madi Meadows, Codi Vore",
         studio: "Brazzers",
+        tags: "big tits, lesbian, threesome",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
 
@@ -40,6 +42,7 @@ const squareData = [
         title: "Thanksgiving Sinner’s Threesome",
         actress: "Alexis Fawx, Codi Vore, Lawson Jones",
         studio: "Brazzers",
+        tags: "big tits, lesbian, threesome, cum shot",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
 
@@ -50,6 +53,7 @@ const squareData = [
         title: "Drone Peeping Dude Gets Sneaky Anal",
         actress: "Gem Jewels, Jimmy Michaels",
         studio: "Brazzers",
+        tags: "big ass, cum shot",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
 
@@ -60,6 +64,7 @@ const squareData = [
         title: "Baddie With A Phatty",
         actress: "Gem Jewels",
         studio: "Bangbros",
+        tags: "big ass, cum shot",
         link: "https://landing.bangbrosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTMwLCJzIjo2OTMsImUiOjEwNjczLCJwIjoxMX0=",
     },
 
@@ -70,6 +75,7 @@ const squareData = [
         title: "Gelatinous Gem",
         actress: "Gem Jewels",
         studio: "Bangbros",
+        tags: "big ass, cum shot",
         link: "https://landing.bangbrosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTMwLCJzIjo2OTMsImUiOjEwNjczLCJwIjoxMX0=",
     },
 
@@ -80,6 +86,7 @@ const squareData = [
         title: "Working Out A Gem",
         actress: "Gem Jewels",
         studio: "Bangbros",
+        tags: "big ass, cum shot",
         link: "https://landing.bangbrosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTMwLCJzIjo2OTMsImUiOjEwNjczLCJwIjoxMX0=",
     },
 
@@ -90,6 +97,7 @@ const squareData = [
         title: "Gerocery Store",
         actress: "Brenna Mckenna",
         studio: "Mofos",
+        tags: "cum shot",
         link: "https://landing.mofosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTUsInMiOjE3NiwiZSI6ODk0MywicCI6MTF9",
     },
 
@@ -100,6 +108,7 @@ const squareData = [
         title: "Fucked Out Of House & Home: Part 1",
         actress: "Kenzie Reeves, Victoria Cakes",
         studio: "Brazzers",
+        tags: "Squirting, big ass, lesbian",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
 
