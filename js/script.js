@@ -51,7 +51,7 @@ document.addEventListener("DOMContentLoaded", function () {
           item.actress.toLowerCase().includes(search.toLowerCase()) ||
           item.studio.toLowerCase().includes(search.toLowerCase()) ||
           (item.tags &&
-            item.tags.toLowerCase().includes(search.toLowerCase()))
+            item.tags.toLowerCase().replace(/\s+/g, "").includes(search.toLowerCase().replace(/\s+/g, "")))
         )
       )
 
