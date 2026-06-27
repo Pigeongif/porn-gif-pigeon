@@ -108,7 +108,7 @@ const squareData = [
         title: "Fucked Out Of House & Home: Part 1",
         actress: "Kenzie Reeves, Victoria Cakes",
         studio: "Brazzers",
-        tags: "Squirting, big ass, lesbian",
+        tags: "squirting, big ass, lesbian",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
 
@@ -129,6 +129,7 @@ const squareData = [
         title: "In Need of a Big Ass",
         actress: "Jenna Starr, Johnny Love",
         studio: "Bangbros",
+        tags: "big ass, cum shot",
         link: "https://landing.bangbrosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTMwLCJzIjo2OTMsImUiOjEwNjczLCJwIjoxMX0=",
 
     },
