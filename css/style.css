@@ -9,6 +9,7 @@ body {
 /* ===== TOP BLUE BANNER ===== */
 .top-banner {
   position: sticky;
+  top: 0;
   z-index: 1000;
   background: #0a69cf;
   height: 90px;
