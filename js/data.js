@@ -9,7 +9,7 @@ const squareData = [
         title: "The Geek, The Goth & The Tomboy",
         actress: "Codi Vore, Jessie Lee",
         studio: "Brazzers",
-        tags: "lesbian, big tits, threesome, tatoos, cum shot",
+        tags: "lesbian, big tits, threesome, tatoos, cum shot, cumshot",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
 
@@ -20,6 +20,7 @@ const squareData = [
         title: "Squirting Vanna",
         actress: "Vanna Rose",
         studio: "Bangbros",
+        tags: "cumshot, cum shot",
         link: "https://landing.bangbrosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTMwLCJzIjo2OTMsImUiOjEwNjczLCJwIjoxMX0=",
     },
 
@@ -42,7 +43,7 @@ const squareData = [
         title: "Thanksgiving Sinner’s Threesome",
         actress: "Alexis Fawx, Codi Vore, Lawson Jones",
         studio: "Brazzers",
-        tags: "big tits, lesbian, threesome, cum shot",
+        tags: "big tits, lesbian, threesome, cum shot, cumshot",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
 
@@ -53,7 +54,7 @@ const squareData = [
         title: "Drone Peeping Dude Gets Sneaky Anal",
         actress: "Gem Jewels, Jimmy Michaels",
         studio: "Brazzers",
-        tags: "big ass, cum shot",
+        tags: "big ass, cum shot, cumshot",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
 
@@ -64,7 +65,7 @@ const squareData = [
         title: "Baddie With A Phatty",
         actress: "Gem Jewels",
         studio: "Bangbros",
-        tags: "big ass, cum shot",
+        tags: "big ass, cum shot, cumshot",
         link: "https://landing.bangbrosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTMwLCJzIjo2OTMsImUiOjEwNjczLCJwIjoxMX0=",
     },
 
@@ -75,7 +76,7 @@ const squareData = [
         title: "Gelatinous Gem",
         actress: "Gem Jewels",
         studio: "Bangbros",
-        tags: "big ass, cum shot",
+        tags: "big ass, cum shot, cumshot",
         link: "https://landing.bangbrosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTMwLCJzIjo2OTMsImUiOjEwNjczLCJwIjoxMX0=",
     },
 
@@ -86,7 +87,7 @@ const squareData = [
         title: "Working Out A Gem",
         actress: "Gem Jewels",
         studio: "Bangbros",
-        tags: "big ass, cum shot",
+        tags: "big ass, cum shot, cumshot",
         link: "https://landing.bangbrosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTMwLCJzIjo2OTMsImUiOjEwNjczLCJwIjoxMX0=",
     },
 
@@ -97,7 +98,7 @@ const squareData = [
         title: "Gerocery Store",
         actress: "Brenna Mckenna",
         studio: "Mofos",
-        tags: "cum shot",
+        tags: "cum shot, cumshot",
         link: "https://landing.mofosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTUsInMiOjE3NiwiZSI6ODk0MywicCI6MTF9",
     },
 
@@ -119,6 +120,7 @@ const squareData = [
         title: "Smashing The Pool Noodler",
         actress: "Victoria Cakes, Juan Loco",
         studio: "Brazzers",
+        tags: "big ass, ebony",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
 
@@ -129,7 +131,7 @@ const squareData = [
         title: "In Need of a Big Ass",
         actress: "Jenna Starr, Johnny Love",
         studio: "Bangbros",
-        tags: "big ass, cum shot",
+        tags: "big ass, cum shot, cumshot",
         link: "https://landing.bangbrosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTMwLCJzIjo2OTMsImUiOjEwNjczLCJwIjoxMX0=",
 
     },
@@ -141,7 +143,7 @@ const squareData = [
         title: "Real Ass!",
         actress: "Raven Thick, Jodie Johnson",
         studio: "Bangbros",
-        tags: "big ass, cum shot",
+        tags: "big ass, cum shot, cumshot",
         link: "https://landing.bangbrosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTMwLCJzIjo2OTMsImUiOjEwNjczLCJwIjoxMX0=",
     },
 
@@ -152,7 +154,7 @@ const squareData = [
         title: "A Shoulder to Cry On and a Cock to Swallow",
         actress: "Imani Valor, Lilybet Sanders, Lucas Frost",
         studio: "Mofos",
-        tags: "cum shot",
+        tags: "cum shot, cumshot",
         link: "https://landing.mofosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTUsInMiOjE3NiwiZSI6ODk0MywicCI6MTF9",
     },
 
@@ -185,7 +187,7 @@ const squareData = [
         title: "Resterant Fuck",
         actress: "Sarah",
         studio: "Mofos",
-        tags: "cum shot",
+        tags: "cum shot, cumshot",
         link: "https://landing.mofosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTUsInMiOjE3NiwiZSI6ODk0MywicCI6MTF9",
     },
 
@@ -207,7 +209,7 @@ const squareData = [
         title: "The Bowling Alley goes Crazy",
         actress: "Gaby Ortega",
         studio: "Mofos",
-        tags: "cum shot",
+        tags: "cum shot, cumshot",
         link: "https://landing.mofosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTUsInMiOjE3NiwiZSI6ODk0MywicCI6MTF9",
     },
 
@@ -218,7 +220,7 @@ const squareData = [
         title: "The Perfect Suck",
         actress: "Bradham8 aka AJandDaniel",
         studio: "Onlyfans",
-        tags: "cum shot",
+        tags: "cum shot, cumshot",
         link: "https://onlyfinds.com/bradham8",
     },
 
@@ -251,7 +253,7 @@ const squareData = [
         title: "Sexy Spaghetti Dinner",
         actress: "Ellie Nova, Charles Dera",
         studio: "Mofos",
-        tags: "cum shot",
+        tags: "cum shot, cumshot",
         link: "https://landing.mofosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTUsInMiOjE3NiwiZSI6ODk0MywicCI6MTF9",
     },
 
@@ -285,6 +287,7 @@ const squareData = [
         title: "Cow Girl",
         actress: "Red Eviee",
         studio: "HouseHoldFantasy",
+        tags: "big tits, breast milk",
         link: "https://householdfantasy.com",
     },
 
@@ -295,6 +298,7 @@ const squareData = [
         title: "Redhead Step Mom Wants Your Cock",
         actress: "Red Eviee",
         studio: "HouseHoldFantasy",
+        tags: "breast milk, big tits",
         link: "https://householdfantasy.com/redhead-step-mom-wants-your-cock/",
     },
 
@@ -305,6 +309,7 @@ const squareData = [
         title: "Public Squirter",
         actress: "Lilly Vig",
         studio: "Onlyfans",
+        tags: "squirting, public",
         link: "https://onlyfans.com/lillyvig",
     },
 
@@ -315,6 +320,7 @@ const squareData = [
         title: "5-Star Ride",
         actress: "Bosnian Beautyy, Van Wylde, Eddie Jaye",
         studio: "Brazzers",
+        tags: "cumshot, cum shot, big ass",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
 
@@ -325,6 +331,7 @@ const squareData = [
         title: "Cheating With The Hotel Maid Part 2",
         actress: "Advoree, Abigaiil Morris, Van Wylde",
         studio: "Brazzers",
+        tags: "big ass, big tits, lesbian, cumshot, cum shot",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
 
@@ -335,6 +342,7 @@ const squareData = [
         title: "Quit Looking At My Mom",
         actress: "Natasha Nice, Juan Loco",
         studio: "Brazzers",
+        tags: "big tits, cumshot, cum shot",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
 
@@ -345,6 +353,7 @@ const squareData = [
         title: "Party Like A Finger's Up Your Ass",
         actress: "LaSirena69, Xander Corvus",
         studio: "Brazzers",
+        tags: "anal, cumshot, cum shot",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
 
@@ -355,6 +364,7 @@ const squareData = [
         title: "Swallow for Stepdad",
         actress: "Molly Little, Mick Blue, Elias Cash",
         studio: "Brazzers",
+        tags: "cumshot, cum shot",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
 
@@ -365,6 +375,7 @@ const squareData = [
         title: "Lexi Luv Joins the Parade",
         actress: "Lexi Luv, Freddy Gong",
         studio: "Bangbros",
+        tags: "ebony, bubble butt",
         link: "https://landing.bangbrosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTMwLCJzIjo2OTMsImUiOjEwNjczLCJwIjoxMX0=",
     },
 
@@ -375,6 +386,7 @@ const squareData = [
         title: "Cross Cuntry Cock Ride: Part 1",
         actress: "Zoey Uso, Valentine Vixen, Mick Blue",
         studio: "Brazzers",
+        tags: "threesome, cumshot, cum shot, big tits, big ass, tatoo, lesbian",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
 
@@ -385,6 +397,7 @@ const squareData = [
         title: "Double Timing With Big Naturals",
         actress: "Hailey Rose",
         studio: "Brazzers",
+        tags: "big tits, threesome, creampie",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
 
@@ -395,6 +408,7 @@ const squareData = [
         title: "MILF Needs A Good Drilling",
         actress: "Cassie Del Isla, Kyle Mason",
         studio: "Brazzers",
+        tags: "anal, cumshot, cum shot",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
 
@@ -405,6 +419,7 @@ const squareData = [
         title: "Chubby Squirter",
         actress: "Dilfed",
         studio: "Dilfed",
+        tags: "threesome, lesbian, squirting, bbw, cumshot, cum shot",
         link: "https://landing.dilfed.com/",
     },
 
@@ -415,6 +430,7 @@ const squareData = [
         title: "Fast Food Fight & Fuck",
         actress: "Kira Noir, Abigaiil Morris, Connie Perignon",
         studio: "Brazzers",
+        tags: "lesbian, threesome",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
 
@@ -425,6 +441,7 @@ const squareData = [
         title: "Ready, Rough & Eager to Please",
         actress: "Vanessa Sky, JMac, James Angel, Peter Fitzwell",
         studio: "Brazzers",
+        tags: "threesome, anal, cumshot cum shot",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
 
