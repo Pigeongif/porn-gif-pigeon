@@ -212,3 +212,18 @@ a {
     flex-shrink: 1;
   }
 }
+
+@media(max-width: 450px) {
+  .logo-section {
+    display: none;
+
+  }
+}
+
+.search-wrapper {
+  flex: 1;
+}
+
+.search-wrapper input {
+  width: 100%;
+}
