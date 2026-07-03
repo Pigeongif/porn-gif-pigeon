@@ -1052,6 +1052,7 @@ const squareData = [
         title: "Seduced By Simone",
         actress: "Simone Richards, Mazee The Goat",
         studio: "Brazzers",
+        tags: "big ass, big tits, squirting, anal, cumshot, cum shot",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
 
@@ -1062,6 +1063,7 @@ const squareData = [
         title: "Speed Dicking",
         actress: "Raissa Bellini, Nia Bleu",
         studio: "Brazzers",
+        tags: "big ass, cumshot, cum shot",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
 
@@ -1072,6 +1074,7 @@ const squareData = [
         title: "Unanounced",
         actress: "Abella Danger",
         studio: "Brazzers",
+        tags: "anal, squirting, cum shot, cumshot",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
 
@@ -1082,6 +1085,7 @@ const squareData = [
         title: "Ass Parade Worthy!",
         actress: "Mandy Muse, Don Sudan",
         studio: "Bangbros",
+        tags: "bubble butt, anal, cumshot, cum shot",
         link: "https://landing.bangbrosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTMwLCJzIjo2OTMsImUiOjEwNjczLCJwIjoxMX0=",
     },
 
@@ -1091,7 +1095,8 @@ const squareData = [
         slug: "porpsexbustygamer",
         title: "Highly Rated Service",
         actress: "Hailey Rose",
-        studio: "Misc",
+        studio: "Misc, Propertysex",
+        tags: "big tits, cum shot, cumshot",
         link: "https://www.propertysex.com/scene/9425681/highly-rated-service",
     },
 
@@ -1101,7 +1106,8 @@ const squareData = [
         slug: "Fake hub threesome sleep over.mp4",
         title: "Slim and Thicc girl threesome",
         actress: "Veronica Leal, Taylee Wood, Steve Q",
-        studio: "Misc",
+        studio: "Misc, Fakehub",
+        tags: "squirting, threesome, lesbian, cumshot, cum shot",
         link: "https://www.fakehub.com/scene/4424491/slim-and-thicc-girl-threesome",
     },
 
@@ -1112,6 +1118,7 @@ const squareData = [
         title: "Milf Meter Blast-Off",
         actress: "Andi Avalon, Koda Monroe, Victor Ray",
         studio: "Brazzers",
+        tags: "threesome, lesbian, big tits, cum shot, cumshot",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
     {
@@ -1121,6 +1128,7 @@ const squareData = [
         title: "Pick Pocket Goes to Pound Town",
         actress: "Vivian Taylor , Johnny Love",
         studio: "Brazzers",
+        tags: "big ass",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
 
@@ -1131,6 +1139,7 @@ const squareData = [
         title: "Alanna's Bitty Bikini Comes Right Off",
         actress: "Alanna Pow, Vince Karter",
         studio: "Brazzers",
+        tags: "big ass, big tits",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
 
@@ -1141,6 +1150,7 @@ const squareData = [
         title: "Bloomin Anus",
         actress: "Amber Bloom, Darrell Deeps",
         studio: "Bangbros",
+        tags: "big tits, anal, creampie",
         link: "https://landing.bangbrosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTMwLCJzIjo2OTMsImUiOjEwNjczLCJwIjoxMX0=",
     },
     {
@@ -1150,6 +1160,7 @@ const squareData = [
         title: "Busty Brunette Makes 2 Dicks Hard",
         actress: "Vivian Taylor, Don Sudan, Kaby Snow",
         studio: "Bangbros",
+        tags: "big ass, threesome, cumshot, cum shot",
         link: "https://landing.bangbrosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTMwLCJzIjo2OTMsImUiOjEwNjczLCJwIjoxMX0=",
     },
     {
@@ -1159,6 +1170,7 @@ const squareData = [
         title: "The World’s Hottest Italian",
         actress: "Raissa Bellini, Don Sudan",
         studio: "Bangbros",
+        tags: "big tits, cumshot, cum shot",
         link: "https://landing.bangbrosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTMwLCJzIjo2OTMsImUiOjEwNjczLCJwIjoxMX0=",
     },
 
@@ -1169,6 +1181,7 @@ const squareData = [
         title: "A Room With A Cock",
         actress: "Codi Vore, Steve Holmes",
         studio: "Brazzers",
+        tags: "big tits, cumshot, cum shot",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
     {
@@ -1178,6 +1191,7 @@ const squareData = [
         title: "Vivian's A Perv",
         actress: "Vivian Taylor, Ethan Seeks",
         studio: "Brazzers",
+        tags: "big ass, cumshot, cum shot",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
     {
@@ -1187,6 +1201,7 @@ const squareData = [
         title: "Teasing Roommate Rubdown",
         actress: "Anissa Miller, Angel Kross",
         studio: "Brazzers",
+        tags: "squirting, bubble butt, cumshot, cum shot",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
     {
@@ -1196,6 +1211,7 @@ const squareData = [
         title: "Codi Vore: SCORE P.O.V. Big Boob Sex ",
         actress: "Codi Vore, Sam Shock",
         studio: "Brazzers",
+        tags: "big tits",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
     {
@@ -1204,7 +1220,8 @@ const squareData = [
         slug: "letsdoitsquirting",
         title: "Prankster Scores Roomie Pussy",
         actress: "Sara Diamante, Brady Bud",
-        studio: "Mofos",
+        studio: "Mofos, Letsdoeit",
+        tags: "squirting, cumshot cum shot, anal",
         link: "https://www.letsdoeit.com/scene/11469265/prankster-scores-roomie-pussy?ats=eyJhIjo4OTk2OSwiYyI6NDc4MzYwMTYsIm4iOjEyOCwicyI6NzI4LCJlIjoxMDk3MywicCI6MTF9&atc=Autocampaign_Default",
     },
     {
@@ -1214,6 +1231,7 @@ const squareData = [
         title: "The Areola Seduction",
         actress: "Zoey Uso, GI Joey",
         studio: "Bangbros",
+        tags: "big tits, cumshot, cum shot",
         link: "https://landing.bangbrosnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTMwLCJzIjo2OTMsImUiOjEwNjczLCJwIjoxMX0=",
     },
     {
@@ -1223,6 +1241,7 @@ const squareData = [
         title: "It's Cumming Home!",
         actress: "Ghostwave, Danny D",
         studio: "Brazzers",
+        tags: "cumshot, cum shot",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
     {
@@ -1232,6 +1251,7 @@ const squareData = [
         title: "TBA",
         actress: "Jayla Page Gogo Zombi",
         studio: "Brazzers",
+        tags: "threesome, lesbian, big ass, ebony, squirting",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
     {
@@ -1241,6 +1261,7 @@ const squareData = [
         title: "Lesbian Couple Wants Roommate Dick",
         actress: "Codi Vore Victoria Cakes Michael Vegas",
         studio: "Brazzers",
+        tags: "big tits, big ass, threesome, ebony",
         link: "https://landing.brazzersnetwork.com/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MTQsInMiOjkwLCJlIjo4ODAzLCJwIjoxMX0=",
     },
     {
@@ -1250,6 +1271,7 @@ const squareData = [
         title: "Cum Hard or Go Home",
         actress: "Nikki Nicole, Jasmine Banks, Logan Xander",
         studio: "Realitykings",
+        tags: "cumshot, cum shot, cumkiss, cum kiss",
         link: "https://landing.rk.com/tgp1/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MjAsInMiOjM1OCwiZSI6ODAzNCwicCI6MTF9",
     },
     {
