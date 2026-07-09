@@ -1397,7 +1397,7 @@ const squareData = [
     {
         id: 134,
         gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/brazzersredheadbetterquality.mp4",
-        slug: "brazzersredheadbetterquality",
+        slug: "brazzersredheadbetterqualiti",
         title: "The Rizz Chronicles: My Stepmom’s BFF",
         actress: "Anissa Kate & Siri Dah",
         studio: "Brazzers",
