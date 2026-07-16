@@ -1446,7 +1446,7 @@ const squareData = [
     },
     {
         id: 139,
-        gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/ezgif-compltervid",
+        gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/ezgif-compltervid.mp4",
         slug: "ezgif-compltervid",
         title: "My Trainer Loves Big Natural Tits!",
         actress: "Summer Hart, Codi Vore",
