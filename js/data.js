@@ -1508,11 +1508,11 @@ const squareData = [
     {
         id: 145,
         gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/letsdoeitthreesome1.mp4",
-        slug: "letsdoeitthreesome1.mp4",
+        slug: "letsdoeitthreesome1",
         title: "The Doppelbanger",
         actress: "Luna Doll, Amber Bloom",
         studio: "Letsdoeit, Mofos",
-        tags: "big tits, threesome, cumshot, cumkiss"
+        tags: "big tits, threesome, cumshot, cumkiss",
         link: "https://www.letsdoeit.com",
     },
 
