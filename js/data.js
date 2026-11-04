@@ -1520,9 +1520,10 @@ const squareData = [
         id: 146,
         gif: "https://pub-48a47b97f0e445e2a40e0b602deaaa65.r2.dev/realitykingshotass.mp4",
         slug: "realitykingshotass",
-        title: "N/A",
-        actress: "N/A",
+        title: "Game Day Bump and Run",
+        actress: "Jasmine Sherni, Mazee The Goat",
         studio: "Realitykings",
+        tags: "Big ass, Cumshot",
         link: "https://landing.rk.com/tgp1/?ats=eyJhIjoxNjQ3NjMwLCJjIjo2NDI3ODc1OCwibiI6MjAsInMiOjM1OCwiZSI6ODAzNCwicCI6MTF9",
     },
 
